@@ -3,5 +3,8 @@
    <description url="http://github.com/ljader/tycho-showcase">
       Tycho Showcase
    </description>
+   <feature url="features/tycho-showcase-feature_1.0.0.qualifier.jar" id="tycho-showcase-feature" version="1.0.0.qualifier">
+      <category name="Tycho Showcase"/>
+   </feature>
    <category-def name="Tycho Showcase" label="Tycho Showcase"/>
 </site>
