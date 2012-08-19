@@ -4,7 +4,7 @@
 
 	<groupId>pl.ljader.tycho.showcase</groupId>
 	<artifactId>tycho-showcase-parent</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<properties>
@@ -14,6 +14,7 @@
 
 	<modules>
 		<module>tycho-showcase-plugin</module>
+		<module>tycho-showcase-p2repository</module>
 	</modules>
 
 	<repositories>
