@@ -14,6 +14,7 @@
 
 	<modules>
 		<module>tycho-showcase-plugin</module>
+		<module>tycho-showcase-feature</module>
 		<module>tycho-showcase-p2repository</module>
 	</modules>
 
